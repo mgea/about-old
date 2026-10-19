@@ -130,7 +130,7 @@ Current courses list:  [https://directorio.ugr.es/static/PersonalUGR/*/show/1ff
 * Fine Arts, Bachelor studies.  [https://bellasartes.ugr.es/docencia/grados/graduadoa-bellas-artes/creacion-multimedia-interactiva/11](https://bellasartes.ugr.es/docencia/grados/graduadoa-bellas-artes/creacion-multimedia-interactiva/11) 
   (content in spanish)
 
-* Website: https://github.com/mgea/cmi
+* Website: https://github.com/mgea/interart
 
 ### Creativity and Publishing on new media 
 > (Creatividad e Innovación Audiovisual) 2012-present
@@ -157,6 +157,8 @@ En Máster Universitatio en Nuevos Medios Interactivos y Periodismo Multimedia. 
 > (Inteligencia Colectiva y la Formación en la Empresa).
 
 En Máster Gestión y Tecnologías de Procesos de Negocio [https://masteres.ugr.es/mbagestiontic/](https://masteres.ugr.es/mbagestiontic/)  (content in spanish)
+
+* Website: https://github.com/mgea/ideapolis
 
 
 ----
@@ -251,13 +253,13 @@ Courses with other partnerships
 
 ## Projects
 
-* Diveracción: Un Sistema de Tele-Rehabilitación en Terapia Ocupacional para mejorar las habilidades de organización y planificación en población Infanto-Juvenil con trastornos por Déficit de Atención con Hiperactividad. (2023-2024) IP: Dulce Nombre de María Romero Ayuso, COIP: Miguel Gea Megías,   Proyectos  de  Investigación  Aplicada  Del Plan  Propio  De  Investigación  Y  Transferencia  de  la Universidad  de  Granada 2023, Financiados Por El Programa Operativo Feder Andalucía 2021‐2027. [https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/adjudicacion_prov_241123.pdf](https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/adjudicacion_prov_241123.pdf), [https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/ANEXO_I_241123.pdf](https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/ANEXO_I_241123.pdf) 
+* **Diveracción**: Un Sistema de Tele-Rehabilitación en Terapia Ocupacional para mejorar las habilidades de organización y planificación en población Infanto-Juvenil con trastornos por Déficit de Atención con Hiperactividad. (2023-2024) IP: Dulce Nombre de María Romero Ayuso, COIP: Miguel Gea Megías,   Proyectos  de  Investigación  Aplicada  Del Plan  Propio  De  Investigación  Y  Transferencia  de  la Universidad  de  Granada 2023, Financiados Por El Programa Operativo Feder Andalucía 2021‐2027. [https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/adjudicacion_prov_241123.pdf](https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/adjudicacion_prov_241123.pdf), [https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/ANEXO_I_241123.pdf](https://investigacion.ugr.es/sites/vic/investigacion/public/documentos/proyectos/juntaUGR/2023/ANEXO_I_241123.pdf) 
 
-* Indigo! Educational ecosystem for continuous and independent development of people with ASD . IP: German Montoro, Pilar Rodriguez. PID2019-105951RB-I00. Financiado por el Ministerio de Ciencia e Innovación. 87.967€   Proyectos de I+D+i», en el marco del Programa Estatal de Generación de Conocimiento y Fortalecimiento Científico y Tecnológico del Sistema de I+D+i  Area Tecnología de la Información y de las Comunicaciones.   Proyectos RTI Tipo B. Retos de la Sociedad de la información. BOE-B-2019-37820,  2020-23, 2020-23
+* **Indigo!** Educational ecosystem for continuous and independent development of people with ASD . IP: German Montoro, Pilar Rodriguez. PID2019-105951RB-I00. Financiado por el Ministerio de Ciencia e Innovación. 87.967€   Proyectos de I+D+i», en el marco del Programa Estatal de Generación de Conocimiento y Fortalecimiento Científico y Tecnológico del Sistema de I+D+i  Area Tecnología de la Información y de las Comunicaciones.   Proyectos RTI Tipo B. Retos de la Sociedad de la información. BOE-B-2019-37820,  2020-23, 2020-23
 
 * La industria cinematográfica andaluza en el hipersector audiovisual-TIC: retos y oportunidades (CINATIC) IP: Francisco Javier Gómez Pérez & Jordi Alberich-Pascual, Fondo Europeo de Desarrollo Regional. Junta de Andalucía. Consejería de Economía, Conocimiento, Empresas y Universidad, 2021-23
 
- * Nar-trans2: Transmedialización y crowdsourcing en las narrativas de ficción y no ficción audiovisuales, periodísticas, dramáticas y literarias PROYECTOS DE I+D (EXCELENCIA) CSO2017-85965-P - CONVOCATORIA 2017 IP: D.Sanchez-Mesa, J. Alberich (2017-2020). Plan Estatal de Investigación Científica y Técnica y de Innovación 2013-2016.
+ * **Nar-trans2**: Transmedialización y crowdsourcing en las narrativas de ficción y no ficción audiovisuales, periodísticas, dramáticas y literarias PROYECTOS DE I+D (EXCELENCIA) CSO2017-85965-P - CONVOCATORIA 2017 IP: D.Sanchez-Mesa, J. Alberich (2017-2020). Plan Estatal de Investigación Científica y Técnica y de Innovación 2013-2016.
  * #ConectaVRDigital: Aprendizaje en Realidad Virtual Multiusuario. Funding program: Call for projects on Digital transformation projects, Conectados por la accesibilidad. Vodafone Foundation. Competitive. 15.000 € Participation: research team. Duration: 01/09/2018 – 01/09/2019
  * e-Integra: e-Training y e-Coaching para la integración socio-laboral. MICYNPlan Nacional de I+D+i. 2014-2017. 98010 EUR.
 
@@ -322,8 +324,6 @@ Courses with other partnerships
 * Github repo:  [https://github.com/mgea](https://github.com/mgea) 
 
 * ResearchGate:  [https://www.researchgate.net/profile/Miguel-Gea](https://www.researchgate.net/profile/Miguel-Gea)
-
-
 
 
 
