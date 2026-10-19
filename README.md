@@ -30,11 +30,11 @@ Software Engineering related with the following  issues: 
 - Interface Design & User Experience 
 
 - Usability & accessibility, Design for All. 
-    
+  
 - e-Learning 
-    
+  
 - Immersive Storytelling
-    
+  
 
 UNESCO ID: 1203.09   
 
@@ -100,15 +100,27 @@ Current courses list:  [https://directorio.ugr.es/static/PersonalUGR/*/show/1ff
 
 * A Computer Science bachelor course, specialist on Software Engineering. [http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/diseaodeinterfacesdeusuario](http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/201314/cuarto/ingenieriadelsoftware/diseaodeinterfacesdeusuario)  (content in spanish) 
 
-* Website: https://mgea.github.io/DIU/#/
+* Website oficial: https://mgea.github.io/DIU/#/
 
+* Web repo prácticas: https://github.com/mgea/UX_CaseStudy
+
+* Best case study: https://mgea.github.io/DIU/#/hall_of_fame/
+
+* Software: 
+
+  * [UX-DIU-Toolkit](https://github.com/mgea/UX-DIU-Toolkit) Herramienta para diseño de experiencia de usuarios (personas y mapa de experiencia de usuario) `[2021]` 
+  * [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist `[2020]`,  upd. `[2025]`
+  * [GazeMapping](https://github.com/mgea/GazeMapping) Web Eye Tracking Analysis & Heatmap Visualization tool especialmente diseñado para la parte de técnicas de Usabilidad de la asignatura `[2026]`
+  
+  
+  
   
 ### Web App Development 
 > (Diseño de Aplicaciones para Internet) 2024-
 
 * Computer Science, Bachelor studies. specialist on Information Technology 
-[https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/desarrollo-aplicaciones-internetetecin](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/desarrollo-aplicaciones-internetetecin) 
-(content in spanish) 
+  [https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/desarrollo-aplicaciones-internetetecin](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/desarrollo-aplicaciones-internetetecin) 
+  (content in spanish) 
 
   
 
@@ -146,7 +158,7 @@ En Máster Universitatio en Nuevos Medios Interactivos y Periodismo Multimedia. 
 
 En Máster Gestión y Tecnologías de Procesos de Negocio [https://masteres.ugr.es/mbagestiontic/](https://masteres.ugr.es/mbagestiontic/)  (content in spanish)
 
-  
+
 ----
 
 Courses with other partnerships
@@ -218,7 +230,7 @@ Courses with other partnerships
 
 
 
-  
+
 ### Selected papers for e-Learning 
 
 * Montes-Soldado, Rosa Ana; Gea-Megias, Miguel; Bergaz, Roberto; Rojas-Medina, Ma Belén. 2014. Generating lifelong-learning communities and branding with Massive Open Online Courses. Information Resources Management Journal. 27: 27-46.
@@ -310,4 +322,25 @@ Courses with other partnerships
 * Github repo:  [https://github.com/mgea](https://github.com/mgea) 
 
 * ResearchGate:  [https://www.researchgate.net/profile/Miguel-Gea](https://www.researchgate.net/profile/Miguel-Gea)
+
+
+
+
+
+## Software
+
+
+
+####  UX/UI 
+
+* [GazeMapping](https://github.com/mgea/GazeMapping) Web Eye Tracking Analysis & Heatmap Visualization tool especialmente diseñado para la parte de técnicas de Usabilidad de la asignatura `[2025]`
+* [etnograUX](https://mgea.github.io/etnograUX/) Plataforma de Registro, Análisis y Catálogo de casos de observación etnográfica para UX `[2026]`
+
+
+
+#### Storytelling 
+
+* [STB Story Builder](https://mgea.github.io/TSBuilder/) Plataforma de gestión, visualización y diseño de narrativas transmedia `[2026]`
+
+
 
