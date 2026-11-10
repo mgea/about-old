@@ -46,6 +46,8 @@ Google Scholar ID: [https://scholar.google.es/citations?hl=es&user=7oUT6OIAAAAJ]
 
 ResearchGate:  [https://www.researchgate.net/profile/Miguel_Gea](https://www.researchgate.net/profile/Miguel_Gea)
 
+Portal investigación UGR https://produccioncientifica.ugr.es/investigadores/356302/detalle
+
 -----
 
 
@@ -247,8 +249,8 @@ Courses with other partnerships
 
 ### Selected papers for Transmedia & Storytelling  
 
-* Miguel Gea (2022) Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto  en Transmedialización y crowdsourcing en la cultura mediática contemporánea, J. Alberich D.  Sánchez-mesa (eds.),  Ed. Universidad de Granada, ISBN 978-84-338-6929-6
-* Gea-Megías, M. (2025): El Cómic digital expandido: análisis y tendencias,  en Gómez-Pérez, F.J. (ed.), El hipersector audiovisual-TIC. Una aproximación multidisciplinar. Salamanca: Comunicación Social Ediciones y Publicaciones. ISBN: 978-84-17600-88-4 D.O.I.:https://doi.org/10.52495/c9.emcs.43.c49 
+* Miguel Gea (2022) **Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto**  en Transmedialización y crowdsourcing en la cultura mediática contemporánea, J. Alberich D.  Sánchez-mesa (eds.),  Ed. Universidad de Granada, ISBN 978-84-338-6929-6 [ResearchGate](https://www.researchgate.net/publication/358139070_Transmedializacion_y_crowdsourcing_en_la_cultura_mediatica_contemporanea)
+* Gea-Megías, M. (2025): **El Cómic digital expandido: análisis y tendencias**,  en Gómez-Pérez, F.J. (ed.), El hipersector audiovisual-TIC. Una aproximación multidisciplinar. Salamanca: Comunicación Social Ediciones y Publicaciones. ISBN: 978-84-17600-88-4 D.O.I.:https://doi.org/10.52495/c9.emcs.43.c49 
 
 
 ## Projects
@@ -257,23 +259,23 @@ Courses with other partnerships
 
 * **Indigo!** Educational ecosystem for continuous and independent development of people with ASD . IP: German Montoro, Pilar Rodriguez. PID2019-105951RB-I00. Financiado por el Ministerio de Ciencia e Innovación. 87.967€   Proyectos de I+D+i», en el marco del Programa Estatal de Generación de Conocimiento y Fortalecimiento Científico y Tecnológico del Sistema de I+D+i  Area Tecnología de la Información y de las Comunicaciones.   Proyectos RTI Tipo B. Retos de la Sociedad de la información. BOE-B-2019-37820,  2020-23, 2020-23
 
-* La industria cinematográfica andaluza en el hipersector audiovisual-TIC: retos y oportunidades (CINATIC) IP: Francisco Javier Gómez Pérez & Jordi Alberich-Pascual, Fondo Europeo de Desarrollo Regional. Junta de Andalucía. Consejería de Economía, Conocimiento, Empresas y Universidad, 2021-23
+* **La industria cinematográfica andaluza en el hipersector audiovisual-TIC: retos y oportunidades** (CINATIC) IP: Francisco Javier Gómez Pérez & Jordi Alberich-Pascual, Fondo Europeo de Desarrollo Regional. Junta de Andalucía. Consejería de Economía, Conocimiento, Empresas y Universidad, 2021-23
 
  * **Nar-trans2**: Transmedialización y crowdsourcing en las narrativas de ficción y no ficción audiovisuales, periodísticas, dramáticas y literarias PROYECTOS DE I+D (EXCELENCIA) CSO2017-85965-P - CONVOCATORIA 2017 IP: D.Sanchez-Mesa, J. Alberich (2017-2020). Plan Estatal de Investigación Científica y Técnica y de Innovación 2013-2016.
- * #ConectaVRDigital: Aprendizaje en Realidad Virtual Multiusuario. Funding program: Call for projects on Digital transformation projects, Conectados por la accesibilidad. Vodafone Foundation. Competitive. 15.000 € Participation: research team. Duration: 01/09/2018 – 01/09/2019
- * e-Integra: e-Training y e-Coaching para la integración socio-laboral. MICYNPlan Nacional de I+D+i. 2014-2017. 98010 EUR.
+ * **#ConectaVRDigital**: Aprendizaje en Realidad Virtual Multiusuario. Funding program: Call for projects on Digital transformation projects, Conectados por la accesibilidad. Vodafone Foundation. Competitive. 15.000 € Participation: research team. Duration: 01/09/2018 – 01/09/2019
+ * **e-Integra**: e-Training y e-Coaching para la integración socio-laboral. MICYNPlan Nacional de I+D+i. 2014-2017. 98010 EUR.
 
 * La Formación Virtual para el Aprendizaje Permanente e Intercambio Cultural en el Mediterraneo. AECID - Agencia Española de Cooperación Internacional para el Desarrollo. 2012-2012. 9516 EUR.
 
-* VMCOLAB: European Co-laboratory for the Integration of Virtual Mobility in Higher Education Innovation and Modernisation Strategies. European Agency for Culture, Education and Audiovisual EACEA. 2012-2014. 269369 EUR.
+* **VMCOLAB**: European Co-laboratory for the Integration of Virtual Mobility in Higher Education Innovation and Modernisation Strategies. European Agency for Culture, Education and Audiovisual EACEA. 2012-2014. 269369 EUR.
 
-* ASIES: Adaptacion en Entornos Inteligentes y Redes Sociales para la Asistencia a Personas con Necesidades Especiales. Ministerio de Educación y Ciencia. Plan Nacional de I+D+i. 2010- 2012. 66000 EUR.
+* **ASIES**: Adaptacion en Entornos Inteligentes y Redes Sociales para la Asistencia a Personas con Necesidades Especiales. Ministerio de Educación y Ciencia. Plan Nacional de I+D+i. 2010- 2012. 66000 EUR.
 
-* MOVINTER: Enhancing Virtual Mobility to Foster Institutional Cooperation and Internationalisation of Curricula. Gea-Megias, Miguel (Coordinador). 2008-2010. 280347,08 EUR.
+* **MOVINTER**: Enhancing Virtual Mobility to Foster Institutional Cooperation and Internationalisation of Curricula. Gea-Megias, Miguel (Coordinador). 2008-2010. 280347,08 EUR.
 
-* HADA: Hipermedia Adaptativa para la Atención a la Diversidad en Entornos de Inteligencia Ambiental. Ministerio de Educación y Ciencia. Plan Nacional de I+D+i. 2008-2010. 120000 EUR.
+* **HADA**: Hipermedia Adaptativa para la Atención a la Diversidad en Entornos de Inteligencia Ambiental. Ministerio de Educación y Ciencia. Plan Nacional de I+D+i. 2008-2010. 120000 EUR.
 
-* COGNIWEB IV. Estudio Empírico de Patrones de Acceso a la Web para Mejorar la Accesibilidad Cognitiva de Usuarios Sordos. IMSERSO. 2006-2007.59000€
+* **COGNIWEB IV**. Estudio Empírico de Patrones de Acceso a la Web para Mejorar la Accesibilidad Cognitiva de Usuarios Sordos. IMSERSO. 2006-2007.59000€
 
 
 ## Awards
@@ -306,15 +308,17 @@ Courses with other partnerships
 
 ## Activities & Products
 
-* Mariela Lujan (2018) Lorca Periodismo inmersivo en España & Producción 360° con Federico García Lorca. MA Dissertation (TFM) Directores: M. Gea, J.A. Jódar in Master de Nuevos Medios Interactivos y Periodismo Multimedia. Website: [http://utopolis.ugr.es/media/lorca360/](http://utopolis.ugr.es/media/lorca360/) 
+* Mariela Lujan (2018) Lorca Periodismo inmersivo en España & Producción 360° con Federico García Lorca. MA Dissertation (TFM) Directores: M. Gea, J.A. Jódar in Master de Nuevos Medios Interactivos y Periodismo Multimedia. Website: https://marielalujan.github.io/
 
 * Patricia Jarpa Candia (2020) Narrativas digitales interactivas: explorando el potencial de la Realidad Aumentada y las historias en el diseño de una campaña publicitaria para móviles. MA Dissertation (TFM) Director: M. Gea in Master de Nuevos Medios Interactivos y Periodismo Multimedia. Website: [https://laformula.github.io/](https://laformula.github.io/)  
+
+* Marco Antonio Gonzales Cadillo (2026) Adaptación de los Cuentos de la Alhambra de Washington Irving mediante Inteligencia Artificial Generativa para impulsar la lectura en los niños y rescatar la memoria colectiva de Granada. MA Dissertation (TFM) Director: M. Gea in Master de Nuevos Medios Interactivos y Periodismo Multimedia.  Website:  https://depict-film-58121399.figma.site/
 
 * MuseoGrades. El Museo Virtual Inmersivo e Inclusivo: Interpretando la SmartCity. in the context of the project TIN2013-44586-R e-Training y e-Coaching para la integración socio-laboral (e-Integra) [http://utopolis.ugr.es/museogrades/](http://utopolis.ugr.es/museogrades/) 
 
 * Editorial Board Member of Applied Sciences (2076-3417)  journal 
 
-* Multimedia Channel UniDiversidad UGR (Curso Universitario de Formación en Inclusión Social para personas con Discapacidad Intelectual at  Universidad de Granada): 
+* Multimedia Channel **UniDiversidad UGR** (Curso Universitario de Formación en Inclusión Social para personas con Discapacidad Intelectual at  Universidad de Granada): 
     * Podcast PorParadesde: (2018-2022) - https://www.spreaker.com/user/porparadesde 
     * Podcast Unidiversidad UGR (2023-) - https://unidiversidad.podbean.com/
     * Youtube channel: [Unidiversidad UGR](https://www.youtube.com/channel/UCQchZ-MTxcCF3i7qUAnDdAw) 
@@ -341,6 +345,27 @@ Courses with other partnerships
 #### Storytelling 
 
 * [STB Story Builder](https://mgea.github.io/TSBuilder/) Plataforma de gestión, visualización y diseño de narrativas transmedia `[2026]`
+
+
+
+#### Website
+
+* Web III Campus Verano Unidiversidad UGR-UJA-UAL 2026 - https://unidiversidad-campus26.surge.sh/
+* Web UniDiversidad UGR (X edición): https://miagenda.in/pcdid/ 
+
+
+
+#### Talleres
+
+* Taller de **Realidad Virtual y Aumentada**. Para Jornadas de Inmersión de PCDI-X - Septiembre 2026 
+
+  https://miagenda.in/tutorialxr/
+
+* Taller de los sentidos (vista/oido), para la  Noche europea de los Investigadores, 25/09/2026
+
+  https://miagenda.in/taller-sentidos/
+
+  
 
 
 
